@@ -1,0 +1,10 @@
+Top 3 things Learned: 
+1. How to use Linux and using it's basic commands 
+2. How Linux file permissions work
+3. How to create and edit files using vim. 
+
+I am excited to learn more about Git, Githu and C programming. 
+
+I am little worried as coding is not my strongest skill and worried that I 
+could forget all the Linux commands when it comes to tests, but practice 
+always makes things better
